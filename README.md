@@ -28,5 +28,5 @@ MML-Hybrid/
 ├── requirements.txt         # Python dependencies
 └── README.md
 
-![image](https://github.com/Laswell1551/MML-Hybrid/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260325151324_511_43.png)
+![image](https://github.com/Laswell1551/MML-Hybrid/blob/main/feature%20definitions)
 
